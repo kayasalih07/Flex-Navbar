@@ -37,6 +37,7 @@ body {
   align-items: center;
   box-shadow: 0 0 5px #333;
   border-radius: 0.5rem;
+  z-index: 1;
 }
 
 .nav a {
