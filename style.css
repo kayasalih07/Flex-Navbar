@@ -57,6 +57,7 @@ body {
 .social-icons {
   width: 33.3%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
   position: relative;
   right: 0%;
@@ -68,6 +69,7 @@ i {
   padding: 0 1rem;
   color: #353535;
   transition: 1s;
+  display: block;
 }
 i:hover {
   font-size: 3rem;
